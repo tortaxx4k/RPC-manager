@@ -64,6 +64,10 @@ Pour chaque champ, vous pouvez cliquer sur le bouton d'aide (icône `?`) à côt
 
 Pour toute question ou problème, veuillez contacter [mon discord](https://discord.com/users/961713842218496000).
 
+
+## Une image du logiciel 🖼️
+[![Capture-d-cran-2024-08-09-195105.png](https://i.postimg.cc/DfGjrkvC/Capture-d-cran-2024-08-09-195105.png)](https://postimg.cc/K4ZDbWgL)
+
 ---
 
 Merci d'utiliser notre application pour personnaliser votre statut Discord RPC ! 🚀
