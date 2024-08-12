@@ -26,9 +26,9 @@ Lancez l'application en exécutant le fichier exécutable. Vous verrez une inter
   
 - **Détails (Details)**: Entrez une description plus détaillée de votre activité actuelle.
   
-- **URL de la grande image (Large Image)**: Entrez le lien de la grande image associée à votre application Discord.
+- **URL de la grande image (Large Image)**: Entrez le lien de la grande image associée à votre application Discord, vous pouvez utiliser un hebergeur d'image comme [postimages](https://postimages.org).
   
-- **URL de la petite image (Small Image)**: Entrez le lien de la petite image associée à votre application Discord.
+- **URL de la petite image (Small Image)**: Entrez le lien de la petite image associée à votre application Discord,vous puvez utiliser un hebergeur d'image comme [postimages](https://postimages.org).
   
 - **Texte de la grande image (Large Text)**: Entrez un texte affiché lorsque la grande image est survolée.
   
