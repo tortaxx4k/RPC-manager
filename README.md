@@ -65,8 +65,10 @@ Pour chaque champ, vous pouvez cliquer sur le bouton d'aide (icône `?`) à côt
 Pour toute question ou problème, veuillez contacter [mon discord](https://discord.com/users/961713842218496000).
 
 
-## Une image du logiciel 🖼️
+## Des images du logiciel 🖼️
 [![Capture-d-cran-2024-08-09-195105.png](https://i.postimg.cc/DfGjrkvC/Capture-d-cran-2024-08-09-195105.png)](https://postimg.cc/K4ZDbWgL)
+[![Capture-d-cran-2024-08-12-170725.png](https://i.postimg.cc/NMpnP0d0/Capture-d-cran-2024-08-12-170725.png)](https://postimg.cc/Kk3Q1mSX)
+[![Capture-d-cran-2024-08-12-170549.png](https://i.postimg.cc/ZYdX4JsC/Capture-d-cran-2024-08-12-170549.png)](https://postimg.cc/QVjfqZ33)
 
 ---
 
