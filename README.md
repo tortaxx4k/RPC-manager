@@ -71,4 +71,5 @@ Pour toute question ou problème, veuillez contacter [mon discord](https://disco
 
 ---
 
+Retrouvez les ajouts des mises à jour dans le fichier [patchnotes.md](./patchnotes.md)
 Merci d'utiliser notre application pour personnaliser votre statut Discord RPC ! 🚀
